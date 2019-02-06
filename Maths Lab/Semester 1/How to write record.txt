@@ -1,0 +1,21 @@
+Topic 6: Taylor series
+	Mclauren's series
+
+eg - find the first 5 terms of the taylor series for f(x) = ........... centred at c=2, plot together with linear,quadratic, cubic,biquadratic taylor approximations near c=2
+
+eg - find the first 5 terms of the mclauren's series for f(x) = ........... centred at c=0, plot together with linear,quadratic, cubic,biquadratic taylor approximations near c=2
+
+
+Synatx - and 2 examples
+
+Output(graph)
+n=2			n=4
+
+n=6			n=8 
+
+
+question expand y=f(x) using T.S with 2,4,6,8 terms
+
+output: graph - linear,quadratic, cubic,biquadratic
+
+
